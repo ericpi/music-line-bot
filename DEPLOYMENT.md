@@ -4,6 +4,7 @@
     * Add new provider -> Input [Provider name] -> Confirm -> Create
     * [Provider name] -> Messaging API
     * Fill the Channel settings & Issue new Channel access token 
+    * Plan => Free (Not Developer Trial)
     * copy the Channel secret & Channel access token
 * Log into [OLAMI](https://www.olami.ai/) admin console
     * 建立新應用 -> Fill the app infomation
